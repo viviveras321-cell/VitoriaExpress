@@ -326,3 +326,15 @@ html {
     margin-top: 90px;
     text-align: center;
 }
+
+
+@media (max-width: 768px) {
+
+    /* ajustes para celular */
+  body {
+        overflow-x: hidden;
+    }
+
+    section {
+        padding: 60px 25px;}
+}
